@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "1",
+    "update_code": "2",
     "reminder_time": "3",
     "update_version": "v11.30",
     "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
