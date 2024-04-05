@@ -1,13 +1,13 @@
 {
   "Gold": {
-    "update_code": "2",
+    "update_code": "0",
     "reminder_time": "3",
     "update_version": "v11.30",
     "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
-    "com.fbwhatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
+    "com.WhatsApp2Plus": "https://dalilalmubtada.blogspot.com/2022/04/fb3hatsapp-gold.html",
     "com.WhatsApp3Plus": "https://dalilalmubtada.blogspot.com/2020/09/download-whatsapp-plus-red.html",
-    "com.WhatsApp4Plus": "https://update.gold/updateblue",
-    "com.WhatsApp5Plus": "https://update.gold/updateblack",
+    "com.fb1whatsapp": "https://fbmods.com/fb1whatsapp/",
+    "com.rawhatsapp": "https://dalilalmubtada.blogspot.com/2021/04/ra-whatsapp.html",
     "update_message": "
 <p>Update Vتحديث جديد« 11.30</p>
 <li>تمت إضافة خيار 6.26 لإخفاء إشعار القصة الملغاة</li>
