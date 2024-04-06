@@ -6,7 +6,7 @@
     "com.whatsapp": "https://dalilalmubtada.blogspot.com/2022/04/fb4whatsapp-green-apk.html",
     "com.WhatsApp2Plus": "https://fbmods.com/whatsapp-gold-plus-new-apk/",
     "com.WhatsApp3Plus": "https://dalilalmubtada.blogspot.com/2020/09/download-whatsapp-plus-red.html",
-    "com.fb1whatsapp": "https://fbmods.com/fb1whatsapp/",
+    "com.WhatsApp4Plus": "https://fbmods.com/fb1whatsapp/",
     "com.rawhatsapp": "https://dalilalmubtada.blogspot.com/2021/04/ra-whatsapp.html",
     "update_message": "
 <p>Update Vتحديث جديد« 21</p>
