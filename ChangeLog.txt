@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "6",
     "reminder_time": "6",
     "update_version": "v2.50",
     "com.twitter.android": "https://t.me/alblany",
